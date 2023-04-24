@@ -1,0 +1,6 @@
+manifest.yaml
+Pipfile
+Pipfile.lock
+.cfignore
+**/__pycache__
+configuration
